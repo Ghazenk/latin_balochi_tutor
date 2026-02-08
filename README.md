@@ -91,7 +91,7 @@ Follow these steps to run the project locally.
 
 | Home Screen | Translator | AI Chat | Dark Mode |
 |:---:|:---:|:---:|:---:|
-| *(Add screenshot here)* | *(Add screenshot here)* | *(Add screenshot here)* | *(Add screenshot here)* |
+| *(screenshot will be added here soon)* | *(screenshot will be added here soon)* | *(screenshot will be added here soon)* | *(screenshot will be added here soon)* |
 
 ---
 
